@@ -1,33 +1,296 @@
 <!DOCTYPE html>
-
 <html lang="en">
-    <head>
-      <meta charset="UTF-8">
+
+<head>
+  <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<script src="https://cdn.ploty.ly/plotly-latest.min.js"></script>
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-      <script src=”app.js”></script>  
-      <link rel="stylesheet" href="style.css">
-      <title>US Shark Attacks</title>
-  
-      </head>
-      <body>
-        <div id="graph"></div>
-        <div class="banner">
-        <div class="navbar">
-            <img src="logo.gif" class="logo">
-            <ul>
-                <li><a href="#">pageone</a></li>
-                <li><a href="#">pagetwo</a></li>
-                <li><a href="#">pagethree</a></li>
-                <li><a href="#">pagefour</a></li>
-              </ul>
-  
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <title>Dashboard</title>
+</head>
+<body>
+  <nav class="navbar">
+      <div class="container">
+        <div>
+          <h1>Brand</h1>
+        <div class="menu">
+          <ul>
+            <li>
+              <a href="#">Home</a>
+            </li>
+            <li>
+              <a href="#">About</a>
+            </li>
+            <li>
+              <a href="#" class="active">Projects</a>
+            </li>
+            <li>
+              <a href="#">Contact</a>
+            </li>
+            <li>
+              <a href="#">Blog</a>
+            </li>
+          </ul>
+          <ul class="options">
+            <li><a href="#">
+              <span class="material-icons">
+                search
+              </span>
+            </a></li>
+            <li><a href="#" class="notification">
+              <span class="material-icons">
+                notifications
+              </span>
+            </a></li>
+            <li><a href="#">
+              <img src="https://source.unsplash.com/B5PLtlpR7YA/100x100" alt="user" class="profile-img">
+            </a></li>
+          </ul>
         </div>
-        
-      </body>
-      
-      </html>
+        </div> 
+        <div class="menu-btn">
+          <span class="material-icons">
+            segment
+          </span>
+        </div>
+      </div>
+    </nav>
+  <nav class="sidebar">
+    <div class="container">
+    <h3 class="title">Menu</h3>
+    <ul>
+      <li>
+       <a href="">
+        <span class="material-icons">
+          home
+        </span>
+        <span>Home</span>
+         </a>
+      </li>
+      <li>
+      <a href="">
+        <span class="material-icons">
+          favorite
+        </span>
+        <span>Favorites</span>
+        </a>
+      </li>
+      <li>
+      <a href="">
+        <span class="material-icons">
+          lock
+        </span>
+        <span>Security</span>
+         </a>
+      </li>
+      <li>
+      <a href="">
+        <span class="material-icons">
+          help
+        </span>
+        <span>Help</span>
+        </a>
+      </li>   
+      <li>
+      <a href="">
+        <span class="material-icons">
+          tune
+        </span>
+        <span>Settings</span>
+          </a>
+      </li>
+    </ul>
+    <div class="note">
+      <h1>What's New</h1>
+      <p>
+        Stay notified with the latest updates and bug fixes in this brand new version 4
+      </p>
+      <a href="#" class="btn">Learn More</a>
+    </div>
+    <div class="sidebar-footer">
+      <p>&copy; Lorem ipsum dolor</p>
+    </div>
+    </div>
+  </nav>
+  <main class="dashboard">
+    <div class="panel list">
+      <li>
+        <h2>Earnings</h2>
+        <span>Monthly</span>
+      </li>
+      <li>
+        <h4>January</h4>
+        <span>4,856</span>
+      </li>
+      <li>
+        <h4>February</h4>
+        <span>7,093</span>
+      </li>
+      <li>
+        <h4>March</h4>
+        <span>3,294</span>
+      </li>
+      <li>
+        <h4>April</h4>
+        <span>1,204</span>
+      </li>
+      <li>
+        <h4>May</h4>
+        <span>1,543</span>
+      </li>
+    </div>
+    
+    <div id="barChart"></div>
+    
+    <div class="goals">
+      <div class="panel goal">
+        <span class="material-icons">
+          check_circle
+        </span>
+        <div>
+          <div class="goal-title">
+            <h4>Daily</h4>
+            <h4>450$</h4>
+          </div>
+        <small>Lorem ipsum dolor sit amet</small>  
+        </div>
+      </div>
+      <div class="panel goal">
+        <span class="material-icons">
+          check_circle
+        </span>
+        <div>
+          <div class="goal-title">
+            <h4>Monthly</h4>
+            <h4>2,450$</h4>
+          </div>
+        <small>Lorem ipsum dolor sit amet</small>  
+        </div>
+      </div>
+      <div class="panel goal">
+        <span class="material-icons">
+          check_circle
+        </span>
+        <div>
+          <div class="goal-title">
+            <h4>Annual</h4>
+            <h4>22,450$</h4>
+          </div>
+        <small>Lorem ipsum dolor sit amet</small>  
+        </div>
+      </div>
+    </div>
+    
+    <div id="scientificChart"></div>
+    
+    <div class="sales">
+      <div>
+        <h4>March</h4>
+        <h1>24</h1>
+        <small>6 days left</small>
+      </div>
+      <div>
+        <h4>Booking</h4>
+        <h1>$519k</h1>
+        <small>20% of plan</small>
+      </div>
+      <div>
+        <h4>Closing</h4>
+        <h1>92%</h1>
+        <small>345 deals</small>
+      </div>
+      <div>
+        <h4>New Customers</h4>
+        <h1>36</h1>
+        <small>19 last month</small>
+      </div>
+    </div>
+    
+    <div id="pieChart"></div>
+    
+    <div class="panel list">
+      <li>
+        <h2>Deals</h2>
+        <span>Monthly</span>
+      </li>
+      <li>
+        <h4>January</h4>
+        <span>23</span>
+      </li>
+      <li>
+        <h4>February</h4>
+        <span>15</span>
+      </li>
+      <li>
+        <h4>March</h4>
+        <span>42</span>
+      </li>
+      <li>
+        <h4>April</h4>
+        <span>11</span>
+      </li>
+    </div>
+    
+    <div class="panel text text-vertical">
+      <h1>Details</h1>
+      <small>lorem ipsum</small>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque suscipit tortor ac tempor. Ut consectetur hendrerit felis, luctus volutpat odio mollis eget.</p>
+      <p>Sed metus mi, tincidunt non odio eget, aliquet tristique ipsum. Mauris non est in quam bibendum molestie vitae at lacus. Nullam non bibendum nunc. Suspendisse id tellus non ipsum consectetur rutrum. Quisque nec pellentesque lacus, et rutrum nulla.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque suscipit tortor ac tempor. Ut consectetur hendrerit felis, luctus volutpat odio mollis eget.</p>
+      <p>Sed metus mi, tincidunt non odio eget, aliquet tristique ipsum. Mauris non est in quam bibendum molestie vitae at lacus. Nullam non bibendum nunc. Suspendisse id tellus non ipsum consectetur rutrum. Quisque nec pellentesque lacus, et rutrum nulla.</p>
+    </div>
+    
+     <div class="panel text text-horizontal">
+      <h1>Updates</h1>
+      <small>lorem ipsum</small>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pellentesque suscipit tortor ac tempor. Ut consectetur hendrerit felis, luctus volutpat odio mollis eget.</p>
+      <p>Sed metus mi, tincidunt non odio eget, aliquet tristique ipsum. Mauris non est in quam bibendum molestie vitae at lacus. Nullam non bibendum nunc. Suspendisse id tellus non ipsum consectetur rutrum. Quisque nec pellentesque lacus, et rutrum nulla.</p>
+    </div>
+    
+    <div id="carpetChart"></div>
+    
+    <div class="goals">
+      <div class="panel goal">
+        <span class="material-icons">
+          fingerprint
+        </span>
+        <div>
+          <div class="goal-title">
+            <h4>Privacy</h4>
+          </div>
+        <small>Lorem ipsum dolor sit amet</small>  
+        </div>
+      </div>
+      <div class="panel goal">
+        <span class="material-icons">
+          dashboard
+        </span>
+        <div>
+          <div class="goal-title">
+            <h4>Dashboard</h4>
+          </div>
+        <small>Lorem ipsum dolor sit amet</small>  
+        </div>
+      </div>
+      <div class="panel goal">
+        <span class="material-icons">
+          manage_accounts
+        </span>
+        <div>
+          <div class="goal-title">
+            <h4>Manage</h4>
+          </div>
+        <small>Lorem ipsum dolor sit amet</small>  
+        </div>
+      </div>
+    </div>
+    
+    <div id="donutChart"></div>
+  </main>
+  
+  <script src='https://cdn.plot.ly/plotly-2.4.2.min.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js'></script>
+  <script src="./main.js"></script>
+</body>
+</html>
