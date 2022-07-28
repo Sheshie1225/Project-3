@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Global Shark Attacks</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+</head>
+
+<body>
+  <div class="banner">
+    <div class="navbar">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 jumbotron text-center">
+          <h1>Great White Shark Attacks<span><br>(2012 - 2022)</span></h1>
+        </div>
+      </div>
+
+<div class="row content">
+        <div class="col-sm-12 col-md-8 col-lg-8">
+            <h2 class="text-left1"><br><center>"IT'S SHARK WEEK!"</center></h2>
+            <hr class="my-4">
+
+            <div class="indexcontent">
+            <img src="/static/images/shark-meme.jpeg"  alt="Shark" class="rounded main-image"><br> The White Shark, more commonly referred to as the “Great White” has been reported to be involved in more attacks on humans than any other shark. Great white sharks are the most aggressive sharks in the world having recorded 333 attacks on humans, with 52 of them being fatal. Although you’re more likely to get killed by lightning or even cows who kill about 20 people yearly, the fear of death by a shark attack is universal.<br><br>
+        </div></div>
+
+      <div class="row">
+
+        <div class="col-md-2">
+          <div class="well" id="samplePanel">
+            <h5>Select Date of Shark Attack:</h5>
+            <select id="selectCaseDate" onchange="optionChanged(this.value)"></select>
+          </div>
+
+          
+          <div class="panel panel-primary" id="metaPanel">
+            <div class="panel-heading">
+              <h3 class="panel-title">Great White Shark Cases</h3>
+            </div>
+            <div id="sample-metadata" class="panel-body"></div>
+          </div>
+        </div>
+
+      <div>
+      <center><iframe src="/graphs/activities.html" height="800" width="1200"frameBorder="0"></iframe></center>
+      <center><iframe src="/graphs/sharkfatal.html" height="800" width="1200"frameBorder="0"></iframe></center>
+      <center><iframe src="/graphs/countries.html" height="800" width="1200"frameBorder="0"></iframe></center>
+      </div>
+
+        <div class="col-md-5">
+          <div id="bar"></div>
+      </div>
+         <a href="https://www.discovery.com/shark-week.com">
+         <img alt="SharkWeek" src="static/images/sharkweek.png"
+         width=150" height="70">
+      </a>
+
+
+
+
+      </div>
+
+      
+      </div>
+    </div>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="static/js/apps.js"></script>
+
+ 
+
+</body>
+
+</html>

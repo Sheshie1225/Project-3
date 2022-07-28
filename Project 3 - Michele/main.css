@@ -1,0 +1,93 @@
+.jumbotron {
+    margin-left:18px;
+}
+.banner{
+    width: 100%;
+    height: 480vh;
+    background-image: linear-gradient(rgba(128,128,128,0.75),rgba(128,128,128,0.75)),url(shark.gif);
+    background-size: cover;
+    background-position: center;
+
+}
+.text-left1{
+    color:white;
+    font-size:50px;
+
+}
+.indexcontent {
+    color: white;
+    font-size:25px
+  
+     
+
+}
+.rounded.main-image {
+    margin-left: auto;
+    margin-right: 30px;
+    width: 375px;
+    height: 260px;
+    float: left;
+  }
+.navbar{
+    width: 85%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo{
+    width: 600px;
+    cursor: pointer;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.jumbotron h1 {
+    color:rgb(63, 131, 208);
+    
+    
+}
+
+
+
+.jumbotron p {
+    color:aliceblue
+}
+
+.white-text h2 {
+    color: rgb(255, 255, 255);
+}
+
+.aliceblue-text p {
+    color: aliceblue;
+}
+
+.col-md-12 p {
+    color: aliceblue;
+}
+
+.footer {
+    color:white;
+}
+

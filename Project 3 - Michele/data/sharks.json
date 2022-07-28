@@ -1,0 +1,1779 @@
+{
+   "caseDates":["2022.06.28", "2022.06.22", "2022.12.24", "2022.02.05","2021.09.05", "2021.07.19", "2021.07.05", 
+   "2021.06.26", "2021.05.18", "2021.04.13","2021.02.02.a", "2021.01.22.b", "2021.01.21", "2020.12.30", "2020.12.06.a", 
+   "2020.09.16.b", "2020.09.07", "2020.08.30.b", "2020.08.28", "2020.08.14", "2020.07.31.a", "2020.07.29", "2020.07.27.a", 
+   "2020.07.17", "2020.07.11", "2020.06.07", "2020.05.09", "2020.03.14.R", "2020.02.22", "2020.01.05", "2019.12.20", "2019.11.09", 
+   "2019.10.25", "2019.10.05.b",  "2019.10.05.a", "2019.07.17.R", "2019.07.10", "2019.05.07", "2018.11.11.b", "2018.10.23.a", 
+   "201810.19.a", "2018.10.13", "2018.09.29", "2018.09.27", "2018.09.15", "2018.08.15.a", "2018.06.25", "2018.04.24", "2018.04.22", 
+   "2018.04.02", "2018.01.13", "2017.11.24", "2017.10.22", "2017.09.25.a", "2017.09.10.a", "2017.08.29", "2017.08.23", "2017.08.01", 
+   "2017/07.20.a", "2017.07.20.b", "2017.07.14.b", "2017.07.11", "2017.07.07", "2017.06.11", "2017.04.17.a", "2017.03.18", "2017.02.01.b", 
+   "2016.12.19", "2016.12.01", "2016.10.13R", "2016.09.26", "2016.09.01", "2016.07.15.b", "2016.07.08", "2016.07.07", "2016.06.23", 
+   "2016.05.31", "2016.04.22", "2015.12.26", "2015.12.13", "2015.10.25", "2015.09.24", "2015.09.06", "2015.09.04", "2015.08.29.b", 
+   "2015.08.29.a", "2015.08.18.b", "2015.07.31", "2015.07.25", "2015.07.19", "2015.07.10", "2015.07.03", "2015.07.02", "2015.06.27.a", "2015.06.26.b", 
+   "2015.06.24.a", "2015.04.24.c", "2015.05.03", "2015.05.02", "2015.04.25", "2015.03.26", "2015.02.15", "2015.01.19.b", "2014.12.29.a", 
+   "2014.12.28.b", "2014.11.19", "2014.10.03.b", "2014.10.03.a", "2014.09.03", "2014.08.01", "2014.07.05.b", "2014.05.14", "2014.04.12.R", "2014.00.00", 
+   "2013.12.16", "2013.10.11", "2013.10.08", "2013.10.05", "2013.08.17", "2013.06.25.c", "2013.02.27", "2013.01.26", "2012.10.23", 
+   "2012.07.31.a", "2012.07.14", "2012.06.03", "2012.05.12", "2012.05.06", "2012.04.19.a", "2012.04.11", "2012.03.31", "2012.03.22", 
+   "2012.02.20", "2012.01.18.a", "2012.01.13"],
+
+   "years":["2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022"],
+
+
+   "metadata":[ 
+      {
+         "Year": 2022,
+         "Date": "6/28/2022",
+         "Type": "Unprovoked",
+         "Country": "SOUTH AFRICA",
+         "Activity": "Swimming",
+         "Sex": "M",
+         "Fatal (Y": {
+            "N)": "Y"
+         },
+         "Species": "Great White Shark",
+         "id": "2022.06.28"
+      },
+       {
+         "Year": 2022,
+         "Date": "6/22/2022",
+         "Type": "Unprovoked",
+         "Country": "USA",
+         "Activity": "Swimming",
+         "Sex": "M",
+         "Fatal (Y": {
+            "N)": "N"
+         },
+         "Species": "Great White Shark",
+         "id": "2022.06.22"
+      },
+       {
+         "Year": 2022,
+         "Date": "2/26/2022",
+         "Type": "Unprovoked",
+         "Country": "USA",
+         "Activity": "Boogie boarding",
+         "Sex": "M",
+         "Fatal (Y": {
+            "N)": "Y"
+         },
+         "Species": "Great White Shark",
+         "id": "2022.12.24"
+      },
+   {
+   "Year": 2022,
+   "Date": "2/5/2022",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Floating in inflatable pool ring",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2022.02.05"
+},
+ {
+   "Year": 2021,
+   "Date": "9/5/2021",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.09.05"
+},
+ {
+   "Year": 2021,
+   "Date": "7/19/2021",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.07.19"
+},
+ {
+   "Year": 2021,
+   "Date": "7/5/2021",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.07.05"
+},
+ {
+   "Year": 2021,
+   "Date": "6/26/2021",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Swimming",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.06.26"
+},
+ {
+   "Year": 2021,
+   "Date": "5/18/2021",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.05.18"
+},
+ {
+   "Year": 2021,
+   "Date": "4/13/2021",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Body boarding",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.04.13"
+},
+ {
+   "Year": 2021,
+   "Date": "2/2/2021",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.02.02.a"
+},
+ {
+   "Year": 2021,
+   "Date": "1/22/2021",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.01.22.b"
+},
+ {
+   "Year": 2021,
+   "Date": "1/21/2021",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Snorkeling",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2021.01.21"
+},
+ {
+   "Year": 2020,
+   "Date": "12/30/2020",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Swimming",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.12.30"
+},
+ {
+   "Year": 2020,
+   "Date": "12/6/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.12.06.a"
+},
+ {
+   "Year": 2020,
+   "Date": "9/16/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Foil-boarding",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.09.16.b"
+},
+ {
+   "Year": 2020,
+   "Date": "9/7/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.09.07"
+},
+ {
+   "Year": 2020,
+   "Date": "8/30/2020",
+   "Type": "Watercraft",
+   "Country": "AUSTRALIA",
+   "Activity": "Fishing / Filming sharks feeding on whale carcass",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.08.30.b"
+},
+ {
+   "Year": 2020,
+   "Date": "8/28/2020",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Kayak fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.08.28"
+},
+ {
+   "Year": 2020,
+   "Date": "8/14/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.08.14"
+},
+ {
+   "Year": 2020,
+   "Date": "7/31/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.07.31.a"
+},
+ {
+   "Year": 2020,
+   "Date": "7/29/2020",
+   "Type": "Watercraft",
+   "Country": "AUSTRALIA",
+   "Activity": "Sightseeing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "UNKNOWN"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.07.29"
+},
+ {
+   "Year": 2020,
+   "Date": "7/27/2020",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Swimming",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.07.27.a"
+},
+ {
+   "Year": 2020,
+   "Date": "7/17/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.07.17"
+},
+ {
+   "Year": 2020,
+   "Date": "7/11/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.07.11"
+},
+ {
+   "Year": 2020,
+   "Date": "6/7/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.06.07"
+},
+ {
+   "Year": 2020,
+   "Date": "5/9/2020",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.05.09"
+},
+ {
+   "Year": 2020,
+   "Date": "3/14/2020",
+   "Type": "Provoked",
+   "Country": "NEW ZEALAND",
+   "Activity": "Kayak fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.03.14.R"
+},
+ {
+   "Year": 2020,
+   "Date": "2/22/2020",
+   "Type": "Unprovoked",
+   "Country": "NEW ZEALAND",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.02.22"
+},
+ {
+   "Year": 2020,
+   "Date": "1/5/2020",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Scuba diving",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2020.01.05"
+},
+ {
+   "Year": 2019,
+   "Date": "12/20/2019",
+   "Type": "Provoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "UNKNOWN"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.12.20"
+},
+ {
+   "Year": 2019,
+   "Date": "11/9/2019",
+   "Type": "Watercraft",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Kayaking fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.11.09"
+},
+ {
+   "Year": 2018,
+   "Date": "10/25/2019",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Kayak fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.10.25"
+},
+ {
+   "Year": 2019,
+   "Date": "10/5/2019",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.10.05.b"
+},
+ {
+   "Year": 2019,
+   "Date": "10/5/2019",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.10.05.a"
+},
+ {
+   "Year": 2019,
+   "Date": "7/17/2019",
+   "Type": "Unprovoked",
+   "Country": "NEW ZEALAND",
+   "Activity": "Scuba diving",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.07.17.R"
+},
+ {
+   "Year": 2019,
+   "Date": "7/10/2019",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.07.10"
+},
+ {
+   "Year": 2019,
+   "Date": "5/7/2019",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2019.05.07"
+},
+ {
+   "Year": 2018,
+   "Date": "11/11/2018",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.11.11.b"
+},
+ {
+   "Year": 2018,
+   "Date": "10/23/2018",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Diving / Filming",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.10.23.a"
+},
+ {
+   "Year": 2018,
+   "Date": "10/19/2018",
+   "Type": "Unprovoked",
+   "Country": "NEW ZEALAND",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "201810.19.a"
+},
+ {
+   "Year": 2018,
+   "Date": "10/13/2018",
+   "Type": "Questionable",
+   "Country": "AUSTRALIA",
+   "Activity": "Spearfishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.10.13"
+},
+ {
+   "Year": 2018,
+   "Date": "9/29/2018",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Diving",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.09.29"
+},
+ {
+   "Year": 2018,
+   "Date": "9/27/2018",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.09.27"
+},
+ {
+   "Year": 2018,
+   "Date": "9/15/2018",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Boogie boarding",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.09.15"
+},
+ {
+   "Year": 2018,
+   "Date": "8/15/2018",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Swimming",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.08.15.a"
+},
+ {
+   "Year": 2018,
+   "Date": "6/25/2018",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Paddling",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.06.25"
+},
+ {
+   "Year": 2018,
+   "Date": "4/24/2018",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.04.24"
+},
+ {
+   "Year": 2018,
+   "Date": "4/22/2018",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surf-skiing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.04.22"
+},
+ {
+   "Year": 2018,
+   "Date": "4/3/2018",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.04.02"
+},
+ {
+   "Year": 2018,
+   "Date": "1/13/2018",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Free diving",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2018.01.13"
+},
+ {
+   "Year": 2017,
+   "Date": "11/24/2017",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Spearfishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.11.24"
+},
+ {
+   "Year": 2017,
+   "Date": "10/22/2017",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Kayaking / Fishing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.10.22"
+},
+ {
+   "Year": 2017,
+   "Date": "9/25/2017",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.09.25.a"
+},
+ {
+   "Year": 2017,
+   "Date": "9/10/2017",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.09.10.a"
+},
+ {
+   "Year": 2017,
+   "Date": "8/29/2017",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.08.29"
+},
+ {
+   "Year": 2017,
+   "Date": "8/23/2017",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "SUP",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.08.23"
+},
+ {
+   "Year": 2017,
+   "Date": "8/1/2017",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.08.01"
+},
+ {
+   "Year": 2017,
+   "Date": "7/20/2017",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "SUP",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017/07.20.a"
+},
+ {
+   "Year": 2017,
+   "Date": "7/20/2017",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.07.20.b"
+},
+ {
+   "Year": 2017,
+   "Date": "7/14/2017",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.07.14.b"
+},
+ {
+   "Year": 2017,
+   "Date": "7/11/2017",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.07.11"
+},
+ {
+   "Year": 2017,
+   "Date": "7/7/2017",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.07.07"
+},
+ {
+   "Year": 2017,
+   "Date": "6/11/2017",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Body boarding",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.06.11"
+},
+ {
+   "Year": 2017,
+   "Date": "4/17/2017",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.04.17.a"
+},
+ {
+   "Year": 2017,
+   "Date": "3/18/2017",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.03.18"
+},
+ {
+   "Year": 2017,
+   "Date": "2/1/2017",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2017.02.01.b"
+},
+ {
+   "Year": 2016,
+   "Date": "12/19/2016",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surf skiing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.12.19"
+},
+ {
+   "Year": 2016,
+   "Date": "12/1/2016",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.12.01"
+},
+ {
+   "Year": 2016,
+   "Date": "10/13/2016",
+   "Type": "Invalid",
+   "Country": "MEXICO",
+   "Activity": "Cage Diving",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "UNKNOWN"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.10.13.R"
+},
+ {
+   "Year": 2016,
+   "Date": "9/26/2016",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.09.26"
+},
+ {
+   "Year": 2016,
+   "Date": "9/1/2016",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Spearfishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.09.01"
+},
+ {
+   "Year": 2016,
+   "Date": "7/15/2016",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Kite surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.07.15.b"
+},
+ {
+   "Year": 2016,
+   "Date": "7/8/2016",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.07.08"
+},
+ {
+   "Year": 2016,
+   "Date": "7/7/2016",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.07.07.a"
+},
+ {
+   "Year": 2016,
+   "Date": "6/23/2016",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Spearfishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.06.23"
+},
+ {
+   "Year": 2016,
+   "Date": "5/31/2016",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.05.31"
+},
+ {
+   "Year": 2016,
+   "Date": "4/22/2016",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surf-skiing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2016.04.22"
+},
+ {
+   "Year": 2015,
+   "Date": "12/26/2015",
+   "Type": "Watercraft",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.12.26"
+},
+ {
+   "Year": 2015,
+   "Date": "12/13/2015",
+   "Type": "Watercraft",
+   "Country": "AUSTRALIA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.12.13"
+},
+ {
+   "Year": 2015,
+   "Date": "10/25/2015",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.10.25"
+},
+ {
+   "Year": 2015,
+   "Date": "9/24/2015",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayak fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.09.24"
+},
+ {
+   "Year": 2015,
+   "Date": "9/6/2015",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Stand-Up Paddleboarding",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.09.06"
+},
+ {
+   "Year": 2015,
+   "Date": "9/4/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surf-skiing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.09.04"
+},
+ {
+   "Year": 2015,
+   "Date": "8/29/2015",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.08.29.b"
+},
+ {
+   "Year": 2015,
+   "Date": "8/29/2015",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.08.29.a"
+},
+ {
+   "Year": 2015,
+   "Date": "8/18/2015",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayak Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.08.18.b"
+},
+ {
+   "Year": 2015,
+   "Date": "7/31/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.07.31"
+},
+ {
+   "Year": 2015,
+   "Date": "7/25/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Scallop diving on hookah",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.07.25"
+},
+ {
+   "Year": 2015,
+   "Date": "7/19/2015",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.07.19"
+},
+ {
+   "Year": 2015,
+   "Date": "7/10/2015",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.07.10"
+},
+ {
+   "Year": 2015,
+   "Date": "7/3/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.07.03"
+},
+ {
+   "Year": 2015,
+   "Date": "7/2/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Body boarding",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.07.02"
+},
+ {
+   "Year": 2015,
+   "Date": "6/27/2015",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Body Boarding",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.06.27.a"
+},
+ {
+   "Year": 2015,
+   "Date": "6/26/2015",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.06.26.b"
+},
+ {
+   "Year": 2015,
+   "Date": "6/24/2015",
+   "Type": "Invalid",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.06.24.a"
+},
+ {
+   "Year": 2015,
+   "Date": "6/24/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surf skiing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.04.24.c"
+},
+ {
+   "Year": 2015,
+   "Date": "5/3/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.05.03"
+},
+ {
+   "Year": 2015,
+   "Date": "5/2/2015",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Diving",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.05.02"
+},
+ {
+   "Year": 2015,
+   "Date": "4/25/2015",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.04.25"
+},
+ {
+   "Year": 2015,
+   "Date": "3/26/2015",
+   "Type": "Watercraft",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Kayak Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.03.26"
+},
+ {
+   "Year": 2015,
+   "Date": "2/15/2015",
+   "Type": "Watercraft",
+   "Country": "ATLANTIC OCEAN",
+   "Activity": "Transatlantic Rowing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.02.15"
+},
+ {
+   "Year": 2015,
+   "Date": "1/19/2015",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2015.01.19.b"
+},
+ {
+   "Year": 2014,
+   "Date": "12/29/2014",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Spearfishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.12.29.a"
+},
+ {
+   "Year": 2014,
+   "Date": "12/28/2014",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.12.28.b"
+},
+ {
+   "Year": 2014,
+   "Date": "11/19/2014",
+   "Type": "Watercraft",
+   "Country": "AUSTRALIA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.11.19"
+},
+ {
+   "Year": 2014,
+   "Date": "10/3/2014",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.10.03.b"
+},
+ {
+   "Year": 2014,
+   "Date": "10/3/2014",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.10.03.a"
+},
+ {
+   "Year": 2014,
+   "Date": "9/3/2014",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.09.03"
+},
+ {
+   "Year": 2014,
+   "Date": "8/1/2014",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.08.01"
+},
+ {
+   "Year": 2014,
+   "Date": "7/5/2014",
+   "Type": "Provoked",
+   "Country": "USA",
+   "Activity": "Swimming",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.07.05.b"
+},
+ {
+   "Year": 2014,
+   "Date": "5/14/2014",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.05.14"
+},
+ {
+   "Year": 2014,
+   "Date": "4/12/2014",
+   "Type": "Watercraft",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Shark watching",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.04.12.R"
+},
+ {
+   "Year": 2014,
+   "Date": "1/1/2014",
+   "Type": "Watercraft",
+   "Country": "NEW ZEALAND",
+   "Activity": "Filming a documentary",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2014.00.00"
+},
+ {
+   "Year": 2013,
+   "Date": "12/16/2013",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.12.16"
+},
+ {
+   "Year": 2013,
+   "Date": "10/11/2013",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Swimming / snorkeling",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.10.11"
+},
+ {
+   "Year": 2013,
+   "Date": "10/8/2013",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Diving for Abalone",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.10.08"
+},
+ {
+   "Year": 2013,
+   "Date": "10/6/2013",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.10.05"
+},
+ {
+   "Year": 2013,
+   "Date": "8/17/2013",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.08.17"
+},
+ {
+   "Year": 2013,
+   "Date": "6/25/2013",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking / Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.06.25.c"
+},
+ {
+   "Year": 2013,
+   "Date": "2/27/2013",
+   "Type": "Unprovoked",
+   "Country": "NEW ZEALAND",
+   "Activity": "Swimming",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.02.27"
+},
+ {
+   "Year": 2013,
+   "Date": "1/26/2013",
+   "Type": "Watercraft",
+   "Country": "AUSTRALIA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2013.01.26"
+},
+ {
+   "Year": 2012,
+   "Date": "10/23/2012",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.10.23"
+},
+ {
+   "Year": 2012,
+   "Date": "7/31/2012",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.07.31.a"
+},
+ {
+   "Year": 2012,
+   "Date": "7/14/2012",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.07.14"
+},
+ {
+   "Year": 2012,
+   "Date": "6/3/2012",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surf skiing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.06.03"
+},
+ {
+   "Year": 2012,
+   "Date": "5/12/2012",
+   "Type": "Watercraft",
+   "Country": "USA",
+   "Activity": "Kayaking / Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.05.12"
+},
+ {
+   "Year": 2012,
+   "Date": "5/6/2012",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Paddle boarding",
+   "Sex": "F",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.05.06"
+},
+ {
+   "Year": 2012,
+   "Date": "4/19/2012",
+   "Type": "Unprovoked",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Body boarding",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.04.19.a"
+},
+ {
+   "Year": 2012,
+   "Date": "4/11/2012",
+   "Type": "Watercraft",
+   "Country": "AUSTRALIA",
+   "Activity": "Kayaking",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.04.11"
+},
+ {
+   "Year": 2012,
+   "Date": "3/31/2012",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Scuba diving",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "Y"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.03.31"
+},
+ {
+   "Year": 2012,
+   "Date": "3/22/2012",
+   "Type": "Watercraft",
+   "Country": "AUSTRALIA",
+   "Activity": "Crayfishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.03.22"
+},
+ {
+   "Year": 2012,
+   "Date": "2/20/2012",
+   "Type": "Watercraft",
+   "Country": "SOUTH AFRICA",
+   "Activity": "Fishing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.02.20"
+},
+ {
+   "Year": 2012,
+   "Date": "1/18/2012",
+   "Type": "Unprovoked",
+   "Country": "AUSTRALIA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.01.18.a"
+},
+ {
+   "Year": 2012,
+   "Date": "1/13/2012",
+   "Type": "Unprovoked",
+   "Country": "USA",
+   "Activity": "Surfing",
+   "Sex": "M",
+   "Fatal (Y": {
+      "N)": "N"
+   },
+   "Species": "Great White Shark",
+   "id": "2012.01.13"}]
+
+}
+
